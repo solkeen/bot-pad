@@ -104,7 +104,7 @@ const App: React.FC = () => {
           </Layout>
         </Content>
         <Footer style={{ textAlign: 'center' }}>
-          Bot Pad - Beta ©{new Date().getFullYear()} Created by Solkeen
+          Bot Pad - Beta ©{new Date().getFullYear()} Created by Wizardev
         </Footer>
       </Layout>
 
